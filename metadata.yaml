@@ -1,5 +1,5 @@
 _repo: The-American-Railway-Its-Construction-Development-Management-and-Appliances_54383
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Cooley, Thomas McIntyre
@@ -10,6 +10,9 @@ contributor:
     deathdate: 1898
     gutenberg_agent_id: '47850'
     url: http://www.gutenberg.org/2009/agents/47850
+covers:
+- cover_type: archival
+  image_path: 54383-h/images/cover.jpg
 creator:
   author:
     agent_name: Clarke, Thomas Curtis
@@ -19,6 +22,8 @@ creator:
     gutenberg_agent_id: '47848'
     url: http://www.gutenberg.org/2009/agents/47848
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54383#The-American-Railway-Its-Construction-Development-Management-and-Appliances
 gutenberg_issued: '2017-03-18'
 gutenberg_type: Text
 identifiers:
