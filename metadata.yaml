@@ -1,0 +1,43 @@
+_repo: The-American-Railway-Its-Construction-Development-Management-and-Appliances_54383
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Cooley, Thomas McIntyre
+    aliases:
+    - Cooley, Thomas M. (Thomas McIntyre)
+    - Cooley, T. M. (Thomas McIntyre)
+    birthdate: 1824
+    deathdate: 1898
+    gutenberg_agent_id: '47850'
+    url: http://www.gutenberg.org/2009/agents/47850
+creator:
+  author:
+    agent_name: Clarke, Thomas Curtis
+    alias: Clarke, Thomas C.
+    birthdate: 1827
+    deathdate: 1901
+    gutenberg_agent_id: '47848'
+    url: http://www.gutenberg.org/2009/agents/47848
+description: ''
+gutenberg_issued: '2017-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54383'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HE'
+- !lcsh 'Railroads -- United States'
+- GITenberg
+tableOfContents: Introduction, by T. M. Cooley -- The building of a railway, by T.
+  C. Clark -- Feats of railway engineering, by J. Bogart -- American locomotives and
+  cars, by M. N. Forney -- Railway management, by E. P. Alexander -- Safety in railroad
+  travel, by H. G. Prout -- Railway passenger travel, by H. Porter -- The freight-car
+  service, by T. Voorhees -- How to feed a railway, by B. Norton -- The railway mail
+  service, by T. L. James -- The railway in its business relations, by A. T. Hadley
+  -- The prevention of railway strikes, by C. F. Adams -- The everyday life of railroad
+  men, by B. B. Adams, Jr. -- Statistical railway studies, by F. W. Hewes.
+title: 'The American Railway: Its Construction, Development, Management, and Appliances'
+url: http://www.gutenberg.org/ebooks/54383
